@@ -10,8 +10,8 @@ I am currently on a learning path with **Azure Quantum**, specializing in develo
 ---
 
 ### 🛠️ Tools & Technologies
-![Q#](https://shields.io) 
-![Azure](https://shields.io) 
+![Q#](https://shields.io)
+![Azure](https://shields.io)
 ![GitHub](https://shields.io)
 
 📫 **Connect with me:** Shachar.Daniel@e.braude.ac.il
