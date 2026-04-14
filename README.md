@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Daniel! 👋
 
-<!--
-**daniel85058/daniel85058** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌌 Quantum Computing & Cloud Technology Student
+I am currently on a learning path with **Azure Quantum**, specializing in development using the **Q#** language.
 
-Here are some ideas to get you started:
+- 🎓 **Education:** Utilizing the **GitHub Student Developer Pack** to expand my technical skills.
+- 🛠️ **Current Focus:** Learning quantum principles (Superposition, Entanglement) and cloud implementations.
+- 🚀 **Goal:** Developing quantum algorithms to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tools & Technologies
+![Q#](https://shields.io) ![Azure](https://shields.io) ![GitHub](https://shields.io)
+
+📫 **Connect with me:** Shachar.Daniel@e.braude.ac.il
