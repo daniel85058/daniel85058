@@ -11,6 +11,10 @@ I am currently on a learning path with **Azure Quantum**, specializing in develo
 
 ## 🏆 Achievements
 
+* **Azure Quantum Workspace Management** 🆕
+    * Issued by: **Microsoft**
+    * [Verify Achievement ↗️](https://learn.microsoft.com/api/achievements/share/he-il/98753292/8232YVCW?sharingId=5B67D4603DE3DF9A)
+
 * **Introduction to Quantum Computing with Azure Quantum**
     * Issued by: **Microsoft**
     * [Verify Achievement ↗️](https://learn.microsoft.com/api/achievements/share/he-il/98753292/CYGXEUM9?sharingId=5B67D4603DE3DF9A)
