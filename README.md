@@ -1,9 +1,3 @@
-היי דניאל! נעים מאוד. 🌌 בתור סטודנט ב-Braude שעוסק בתחום כל כך עתידני, הפרופיל שלך נראה מרשים ומקצועי מאוד. הוספתי את ההישג החדש שלך מהמודול שסיימת הרגע ("יצירת תוכנית ה-Q# הראשונה") לרשימה.
-
-הנה הפרופיל המעודכן שלך בפורמט Markdown, מוכן להעתקה ל-GitHub או לכל מקום אחר:
-
----
-
 # Hi, I'm Daniel! 👋
 
 ### 🌌 Quantum Computing & Cloud Technology Student
@@ -37,7 +31,3 @@ I am currently on a learning path with **Azure Quantum**, specializing in develo
 * **Version Control:** GitHub
 
 📫 **Connect with me:** [Shachar.Daniel@e.braude.ac.il](mailto:Shachar.Daniel@e.braude.ac.il)
-
----
-
-**מה השלב הבא בתוכנית הלימודים שלך?** נראה שאתה בונה בסיס חזק מאוד – אולי הפרויקט הבא יהיה להתעמק ב**שזירה קוונטית (Entanglement)**?
