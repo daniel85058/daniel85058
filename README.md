@@ -3,7 +3,7 @@
 ### 🌌 Quantum Computing & Cloud Technology Student
 I am currently on a learning path with **Azure Quantum**, specializing in development using the **Q#** language.
 
-- 🎓 **Education:** Student at **Braude College of Engineering**, utilizing the **GitHub Student Developer Pack** to expand my technical skills.
+- 🎓 **Education:** Student at **Braude College of Engineering**, utilizing the **GitHub Student Developer Pack** to expand his technical skills.
 - 🛠️ **Current Focus:** Learning quantum principles (Superposition, Entanglement) and cloud implementations.
 - 🚀 **Goal:** Developing quantum algorithms to solve real-world problems.
 
@@ -11,7 +11,11 @@ I am currently on a learning path with **Azure Quantum**, specializing in develo
 
 ## 🏆 Achievements
 
-* **Create your first Q# program with the Quantum Development Kit** 🆕
+* **Explore quantum superposition with Q#** 🆕
+    * Issued by: **Microsoft**
+    * [Verify Achievement ↗️](https://learn.microsoft.com/api/achievements/share/en-us/98753292/FQWQCPUX?sharingId=5B67D4603DE3DF9A)
+
+* **Create your first Q# program with the Quantum Development Kit**
     * Issued by: **Microsoft**
     * [Verify Achievement ↗️](https://learn.microsoft.com/api/achievements/share/he-il/98753292/46E6NADK?sharingId=5B67D4603DE3DF9A)
 
